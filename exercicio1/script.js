@@ -21,7 +21,7 @@ const digiteNome = (nome) => {
     console.log(`Olá, ${nome}`)
 }
 
-digiteNome(prompt("Qual é o seu nome?:"))
+digiteNome(prompt("Qual é o seu nome?"))
 
 //tabuada do 6 com arrow function
 const tabuadaSeis = (tabuada) => {
